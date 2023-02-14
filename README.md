@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=pt-br&hide_border=false&custom_title=Status&username=luisinh0" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=material-palenight&hide_border=false&custom_title=Linguagens mais usadas&username=luisinh0" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=pt-br&hide_border=false&custom_title=Status&username=luisinh077" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=default &card_width=320&langs_count=5&theme=material-palenight&hide_border=false&custom_title=Linguagens mais usadas&username=luisinh077" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -38,12 +38,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/luisinh0/luisinh0/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/luisinh077/luisinh077/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/luisinh0/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/luisinh077/count.svg?"  />
 </div>
 
 ###
